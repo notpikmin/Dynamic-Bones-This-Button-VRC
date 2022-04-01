@@ -1,5 +1,6 @@
 # Dynamic-Bones-This-Button
 Editor script that addes a this button for dynamic bones
+Useful for copying dynamic bones on vrc avatars
 
 # Instructions
 Put the "Editor" folder in your project.
