@@ -1,6 +1,7 @@
 # Dynamic-Bones-This-Button
 Editor script that addes a this button for dynamic bones
 Useful for copying dynamic bones on vrc avatars
+Useless for vrchat avatars now that physbones are out.
 
 # Instructions
 Put the "Editor" folder in your project.
